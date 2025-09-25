@@ -67,6 +67,9 @@ https://habr.com/ru/companies/otus/articles/929624/
 
 Подробнее об интеграции см. https://docs.claude.com/en/docs/claude-code/ide-integrations
 
+## Безопасность
+TODO Разобраться с ограничением доступа к чувствителдьным файлам и папкам
+
 
 ### Claude Code + API DeepSeek (через Anthropic-совместимый эндпоинт)
 С подключением к стандартному API нейросети могут возникнут проблемы.
