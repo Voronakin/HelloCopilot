@@ -89,5 +89,4 @@ https://habr.com/ru/companies/otus/articles/929624/
 аккаунт DeepSeek, доступы к которому уже передавать, а потом менять пароль.
 
 # Рекомендации 
-
-[![Видео на YouTube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://youtu.be/YOUTUBE_VIDEO_ID)
+[![Видео на YouTube](https://img.youtube.com/vi/8tVAeYASYT0/0.jpg)](https://youtu.be/8tVAeYASYT0)
