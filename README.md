@@ -1,4 +1,4 @@
-# HelloCopilot-
+# HelloCopilot
 Описаны варианты как опробовать кодогенерацию с помощью нейросетей.
 
 # Бесплатно
@@ -59,8 +59,8 @@ https://habr.com/ru/companies/otus/articles/929624/
 
 ### Claude Code + API DeepSeek (через Anthropic-совместимый эндпоинт)
 С подключением к стандартному API нейросети могут возникнут проблемы.
-
-В качестве альтернативы можно использовать API DeepSeek.
+В качестве альтернативы можно использовать API DeepSeek
+см. https://onedollarvps.com/blogs/how-to-use-deepseek-v3-1-in-claude-code.html
 
 Например в консоли проекта запустить следующий скрипт
 
