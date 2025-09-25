@@ -51,6 +51,17 @@ https://habr.com/ru/companies/otus/articles/929624/
     ```bash
     claude
     ```
+#### Возможные ошибки
+1. При наличие ошибок необходимо перепроверить версию Node.js
+    ```bash
+    node -v
+    ```
+Если она меньше 18-й, то необходимо указать нужную.
+
+
+    nvm use 18
+
+
 ### Интеграция с IDE
 При работе с JetBrains IDE есть плагин (https://plugins.jetbrains.com/plugin/27310-claude-code-beta-), при нажатии на него откроется стилизованная консоль.
 
